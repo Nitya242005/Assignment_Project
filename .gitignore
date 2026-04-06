@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.next/
+
+# Java (Maven)
+**/target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# Env / Secrets
+.env.local
+.env
+.DS_Store
+
+# Uploads and Logs
+uploads/
+*.log
+.system_generated/
+tmp/
+.gemini/
